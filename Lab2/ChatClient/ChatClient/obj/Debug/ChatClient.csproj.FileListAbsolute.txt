@@ -1,0 +1,21 @@
+C:\Users\USER\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\USER\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\USER\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\USER\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\USER\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

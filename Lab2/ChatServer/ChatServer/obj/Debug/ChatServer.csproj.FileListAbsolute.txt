@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\USER\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\USER\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\USER\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\USER\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB2\Working LAB — копия\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
