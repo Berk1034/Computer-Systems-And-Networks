@@ -1,0 +1,14 @@
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\bin\Debug\REST-HTTP client.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\bin\Debug\REST-HTTP client.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\bin\Debug\REST-HTTP client.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\bin\Debug\REST-HTTP client.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\bin\Debug\REST-HTTP client.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\bin\Debug\REST-HTTP client.pdb
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.exe
+C:\!Work!\2 КУРС\4 СЕМ\КСИС\LABS\LAB3\MyRestHTTP\REST-HTTP client\REST-HTTP client\REST-HTTP client\obj\Debug\REST-HTTP client.pdb
