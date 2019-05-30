@@ -6,3 +6,9 @@ Serious Labs
 ## Recommendations:
 * *To provide for work in a situation when several network interfaces are active and the computer is connected to several networks simultaneously.*
 * *If the search for addresses of the local network is performed, then retrieve a range of addresses based on the subnet mask.*
+
+## Lab №2 task:
+*Socket API. Program for exchanging text messages and (or) binary files between two or more computerized using a software interface. (You cannot use WebSocket!).*
+## Recommendations:
+* *IP and port is not “hardcode”. We provide the ability to enter.*
+* *When creating juice on the server side, you need to check the availability of the selected port (perhaps it is already in use). I will check with protection.*
