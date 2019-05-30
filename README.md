@@ -12,3 +12,6 @@ Serious Labs
 ## Recommendations:
 * *IP and port is not “hardcode”. We provide the ability to enter.*
 * *When creating juice on the server side, you need to check the availability of the selected port (perhaps it is already in use). I will check with protection.*
+
+## Lab №3 task:
+*Create a service that implements remote file storage using the HTTP REST protocol. Support HTTP methods with the following semantics: GET - file reading, PUT - file overwriting, POST - adding to the end of the file, DELETE - deleting the file, COPY - copying the file, MOVE - moving the file. Create a client program demonstrating how the service works.*
